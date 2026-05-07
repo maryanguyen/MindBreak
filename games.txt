@@ -1,0 +1,192 @@
+Relaxed,Puzzle,PC,5-10,Minesweeper
+Relaxed,Puzzle,PC,15-30,Mini Metro
+Relaxed,Puzzle,PC,30-60,Portal
+Relaxed,Puzzle,PC,1+,The Witness
+Relaxed,Puzzle,Console,5-10,Tetris Effect
+Relaxed,Puzzle,Console,15-30,Lumines Remastered
+Relaxed,Puzzle,Console,30-60,Portal 2
+Relaxed,Puzzle,Console,1+,Professor Layton
+Relaxed,Puzzle,Mobile,5-10,Candy Crush
+Relaxed,Puzzle,Mobile,15-30,Monument Valley
+Relaxed,Puzzle,Mobile,30-60,Alto's Odyssey
+Relaxed,Puzzle,Mobile,1+,The Room
+Relaxed,Adventure,PC,5-10,Firewatch
+Relaxed,Adventure,PC,15-30,Journey
+Relaxed,Adventure,PC,30-60,Stardew Valley
+Relaxed,Adventure,PC,1+,Spiritfarer
+Relaxed,Adventure,Console,5-10,Abzu
+Relaxed,Adventure,Console,15-30,Flower
+Relaxed,Adventure,Console,30-60,A Short Hike
+Relaxed,Adventure,Console,1+,Animal Crossing
+Relaxed,Adventure,Mobile,5-10,Alto's Adventure
+Relaxed,Adventure,Mobile,15-30,Oxenfree
+Relaxed,Adventure,Mobile,30-60,Gris
+Relaxed,Adventure,Mobile,1+,Lifeline
+Relaxed,Action,PC,5-10,Vampire Survivors
+Relaxed,Action,PC,15-30,Stardew Valley
+Relaxed,Action,PC,30-60,Hollow Knight
+Relaxed,Action,PC,1+,No Man's Sky
+Relaxed,Action,Console,5-10,Kirby Star Allies
+Relaxed,Action,Console,15-30,Yoshi's Crafted World
+Relaxed,Action,Console,30-60,Ratchet and Clank
+Relaxed,Action,Console,1+,Spyro Reignited Trilogy
+Relaxed,Action,Mobile,5-10,Archero
+Relaxed,Action,Mobile,15-30,Jetpack Joyride
+Relaxed,Action,Mobile,30-60,Oceanhorn
+Relaxed,Action,Mobile,1+,Pascal's Wager
+Relaxed,Simulation,PC,5-10,Townscaper
+Relaxed,Simulation,PC,15-30,Unpacking
+Relaxed,Simulation,PC,30-60,The Sims
+Relaxed,Simulation,PC,1+,Cities Skylines
+Relaxed,Simulation,Console,5-10,Powerwash Simulator
+Relaxed,Simulation,Console,15-30,Unpacking
+Relaxed,Simulation,Console,30-60,Stardew Valley
+Relaxed,Simulation,Console,1+,Animal Crossing
+Relaxed,Simulation,Mobile,5-10,Tap My Farm
+Relaxed,Simulation,Mobile,15-30,Pocket City
+Relaxed,Simulation,Mobile,30-60,SimCity BuildIt
+Relaxed,Simulation,Mobile,1+,Hay Day
+Stressed,Puzzle,PC,5-10,Sudoku
+Stressed,Puzzle,PC,15-30,Mini Metro
+Stressed,Puzzle,PC,30-60,Baba Is You
+Stressed,Puzzle,PC,1+,Antichamber
+Stressed,Puzzle,Console,5-10,Tetris Effect
+Stressed,Puzzle,Console,15-30,Puyo Puyo Tetris
+Stressed,Puzzle,Console,30-60,Baba Is You
+Stressed,Puzzle,Console,1+,Return of the Obra Dinn
+Stressed,Puzzle,Mobile,5-10,Tetris
+Stressed,Puzzle,Mobile,15-30,Two Dots
+Stressed,Puzzle,Mobile,30-60,Monument Valley 2
+Stressed,Puzzle,Mobile,1+,The Room Two
+Stressed,Adventure,PC,5-10,Journey
+Stressed,Adventure,PC,15-30,Firewatch
+Stressed,Adventure,PC,30-60,Spiritfarer
+Stressed,Adventure,PC,1+,Celeste
+Stressed,Adventure,Console,5-10,Flower
+Stressed,Adventure,Console,15-30,Abzu
+Stressed,Adventure,Console,30-60,A Short Hike
+Stressed,Adventure,Console,1+,Ori and the Blind Forest
+Stressed,Adventure,Mobile,5-10,Alto's Adventure
+Stressed,Adventure,Mobile,15-30,Gris
+Stressed,Adventure,Mobile,30-60,Oxenfree
+Stressed,Adventure,Mobile,1+,Florence
+Stressed,Action,PC,5-10,Vampire Survivors
+Stressed,Action,PC,15-30,Hotline Miami
+Stressed,Action,PC,30-60,Celeste
+Stressed,Action,PC,1+,Hades
+Stressed,Action,Console,5-10,Kirby Star Allies
+Stressed,Action,Console,15-30,Katana Zero
+Stressed,Action,Console,30-60,Hades
+Stressed,Action,Console,1+,Hollow Knight
+Stressed,Action,Mobile,5-10,Fruit Ninja
+Stressed,Action,Mobile,15-30,Jetpack Joyride
+Stressed,Action,Mobile,30-60,Oceanhorn
+Stressed,Action,Mobile,1+,Pascal's Wager
+Stressed,Simulation,PC,5-10,Townscaper
+Stressed,Simulation,PC,15-30,Unpacking
+Stressed,Simulation,PC,30-60,Stardew Valley
+Stressed,Simulation,PC,1+,Animal Crossing
+Stressed,Simulation,Console,5-10,Powerwash Simulator
+Stressed,Simulation,Console,15-30,Unpacking
+Stressed,Simulation,Console,30-60,Stardew Valley
+Stressed,Simulation,Console,1+,Animal Crossing
+Stressed,Simulation,Mobile,5-10,Tap My Farm
+Stressed,Simulation,Mobile,15-30,Pocket City
+Stressed,Simulation,Mobile,30-60,SimCity BuildIt
+Stressed,Simulation,Mobile,1+,Hay Day
+Energetic,Puzzle,PC,5-10,SpeedRunners
+Energetic,Puzzle,PC,15-30,Keep Talking and Nobody Explodes
+Energetic,Puzzle,PC,30-60,Portal 2
+Energetic,Puzzle,PC,1+,The Talos Principle
+Energetic,Puzzle,Console,5-10,Puyo Puyo Tetris
+Energetic,Puzzle,Console,15-30,Keep Talking and Nobody Explodes
+Energetic,Puzzle,Console,30-60,Portal 2
+Energetic,Puzzle,Console,1+,Crash Bandicoot
+Energetic,Puzzle,Mobile,5-10,Brain Out
+Energetic,Puzzle,Mobile,15-30,Cut the Rope
+Energetic,Puzzle,Mobile,30-60,Monument Valley
+Energetic,Puzzle,Mobile,1+,The Room
+Energetic,Adventure,PC,5-10,Neon Abyss
+Energetic,Adventure,PC,15-30,Dead Cells
+Energetic,Adventure,PC,30-60,Hollow Knight
+Energetic,Adventure,PC,1+,Elden Ring
+Energetic,Adventure,Console,5-10,Crash Bandicoot
+Energetic,Adventure,Console,15-30,Sonic Mania
+Energetic,Adventure,Console,30-60,Spider-Man
+Energetic,Adventure,Console,1+,The Legend of Zelda
+Energetic,Adventure,Mobile,5-10,Subway Surfers
+Energetic,Adventure,Mobile,15-30,Minigore 2
+Energetic,Adventure,Mobile,30-60,Oceanhorn
+Energetic,Adventure,Mobile,1+,Genshin Impact
+Energetic,Action,PC,5-10,Vampire Survivors
+Energetic,Action,PC,15-30,Hotline Miami
+Energetic,Action,PC,30-60,Doom
+Energetic,Action,PC,1+,Elden Ring
+Energetic,Action,Console,5-10,Mortal Kombat
+Energetic,Action,Console,15-30,Street Fighter 6
+Energetic,Action,Console,30-60,Rocket League
+Energetic,Action,Console,1+,Call of Duty
+Energetic,Action,Mobile,5-10,Fruit Ninja
+Energetic,Action,Mobile,15-30,PUBG Mobile
+Energetic,Action,Mobile,30-60,Mobile Legends
+Energetic,Action,Mobile,1+,Genshin Impact
+Energetic,Simulation,PC,5-10,Goat Simulator
+Energetic,Simulation,PC,15-30,Overcooked
+Energetic,Simulation,PC,30-60,Farming Simulator
+Energetic,Simulation,PC,1+,Planet Coaster
+Energetic,Simulation,Console,5-10,Goat Simulator
+Energetic,Simulation,Console,15-30,Overcooked 2
+Energetic,Simulation,Console,30-60,Farming Simulator
+Energetic,Simulation,Console,1+,Planet Coaster
+Energetic,Simulation,Mobile,5-10,Cooking Fever
+Energetic,Simulation,Mobile,15-30,My Talking Tom
+Energetic,Simulation,Mobile,30-60,SimCity BuildIt
+Energetic,Simulation,Mobile,1+,Hay Day
+Bored,Puzzle,PC,5-10,Minesweeper
+Bored,Puzzle,PC,15-30,Mini Metro
+Bored,Puzzle,PC,30-60,Baba Is You
+Bored,Puzzle,PC,1+,The Witness
+Bored,Puzzle,Console,5-10,Tetris Effect
+Bored,Puzzle,Console,15-30,Lumines Remastered
+Bored,Puzzle,Console,30-60,Portal 2
+Bored,Puzzle,Console,1+,Return of the Obra Dinn
+Bored,Puzzle,Mobile,5-10,1010!
+Bored,Puzzle,Mobile,15-30,Two Dots
+Bored,Puzzle,Mobile,30-60,Monument Valley 2
+Bored,Puzzle,Mobile,1+,The Room
+Bored,Adventure,PC,5-10,Firewatch
+Bored,Adventure,PC,15-30,Journey
+Bored,Adventure,PC,30-60,Disco Elysium
+Bored,Adventure,PC,1+,Stardew Valley
+Bored,Adventure,Console,5-10,Abzu
+Bored,Adventure,Console,15-30,Flower
+Bored,Adventure,Console,30-60,Untitled Goose Game
+Bored,Adventure,Console,1+,Animal Crossing
+Bored,Adventure,Mobile,5-10,Alto's Adventure
+Bored,Adventure,Mobile,15-30,Oxenfree
+Bored,Adventure,Mobile,30-60,Gris
+Bored,Adventure,Mobile,1+,Lifeline
+Bored,Action,PC,5-10,Vampire Survivors
+Bored,Action,PC,15-30,Superhot
+Bored,Action,PC,30-60,Hades
+Bored,Action,PC,1+,No Man's Sky
+Bored,Action,Console,5-10,Fall Guys
+Bored,Action,Console,15-30,Katana Zero
+Bored,Action,Console,30-60,Hades
+Bored,Action,Console,1+,Minecraft
+Bored,Action,Mobile,5-10,Crossy Road
+Bored,Action,Mobile,15-30,Among Us
+Bored,Action,Mobile,30-60,Call of Duty Mobile
+Bored,Action,Mobile,1+,Genshin Impact
+Bored,Simulation,PC,5-10,Townscaper
+Bored,Simulation,PC,15-30,Unpacking
+Bored,Simulation,PC,30-60,The Sims
+Bored,Simulation,PC,1+,Cities Skylines
+Bored,Simulation,Console,5-10,Powerwash Simulator
+Bored,Simulation,Console,15-30,Overcooked
+Bored,Simulation,Console,30-60,Stardew Valley
+Bored,Simulation,Console,1+,Animal Crossing
+Bored,Simulation,Mobile,5-10,Tap My Farm
+Bored,Simulation,Mobile,15-30,Pocket City
+Bored,Simulation,Mobile,30-60,SimCity BuildIt
+Bored,Simulation,Mobile,1+,Hay Day
