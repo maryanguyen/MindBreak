@@ -34,22 +34,22 @@ def collect_choices():
     valid_time = ["5-10", "15-30", "30-60", "1+"]
     
     while True:
-        mood = input("Mood (Relaxed, Stressed, Energetic, Bored): ").strip().upper()
+        mood = input("😌 Mood (Relaxed, Stressed, Energetic, Bored): ").strip().upper()
         if mood in valid_mood:
             break
         print("Invalid mood. Please choose from: Relaxed, Stressed, Energetic, or Bored")
     while True:
-        genre = input("Genre (Puzzle, Adventure, Action, Simulation): ").strip().upper()
+        genre = input("🎲 Genre (Puzzle, Adventure, Action, Simulation): ").strip().upper()
         if genre in valid_genre:
             break
         print("Invalid genre. Please choose from: Puzzle, Adventure, Action, or Simulation")
     while True:
-        platform = input("Platform (PC, Console, Mobile): ").strip().upper()
+        platform = input("🖥️ Platform (PC, Console, Mobile): ").strip().upper()
         if platform in valid_platform:
             break
         print("Invalid platform. Please choose from: PC, Console, or Mobile")
     while True:
-        time = input("Time (5-10, 15-30, 30-60, 1+): ").strip().upper()
+        time = input("⏱️ Time (5-10, 15-30, 30-60, 1+): ").strip().upper()
         if time in valid_time:
             break
         print("Invalid time. Please choose from: 5-10, 15-30, 30-60, or 1+")
