@@ -66,9 +66,9 @@ Thank you for using MindBreak!
 
 mindbreak/
 ```
-├── FinalProject_MaryNguyen.py   # Main program
-├── games.txt                    # Game database (192 combinations)
-└── README.md                    # You're reading this!
+FinalProject_MaryNguyen.py   # Main program
+games.txt                    # Game database (192 combinations)
+README.md                    # You're reading this!
 ```
 
 ### games.txt Format
