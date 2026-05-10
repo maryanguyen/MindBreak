@@ -36,7 +36,7 @@ Can't decide what to play? MindBreak asks you four simple questions and instantl
 * *No external libraries needed — uses Python's built-in `os` module only.* *
 
 ## How It Works
-
+```
 Welcome to MindBreak!
 We'll help you choose a game to save you time!
 
@@ -50,7 +50,7 @@ Time (5-10, 15-30, 30-60, 1+): 5-10
 Would you like another recommendation? (yes/no): no
 
 Thank you for using MindBreak!
-
+```
 
 ## Input Options
 
@@ -72,12 +72,16 @@ mindbreak/
 ### games.txt Format
 
 Each line follows this format:
+```
 Mood,Genre,Platform,Time,Game Name
+```
 
 Example:
+```
 Relaxed,Puzzle,Mobile,5-10,Candy Crush
 Energetic,Action,Console,30-60,Rocket League
 Bored,Adventure,PC,1+,Stardew Valley
+```
 
 ## Requirements
 
