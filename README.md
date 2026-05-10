@@ -65,9 +65,11 @@ Thank you for using MindBreak!
 ## File Structure
 
 mindbreak/
+```
 ├── FinalProject_MaryNguyen.py   # Main program
 ├── games.txt                    # Game database (192 combinations)
 └── README.md                    # You're reading this!
+```
 
 ### games.txt Format
 
