@@ -18,16 +18,21 @@ Can't decide what to play? MindBreak asks you four simple questions and instantl
 ## How to Run
 
 1. **Clone the repository**
+   ```
    git clone https://github.com/your-username/mindbreak.git
    cd mindbreak
-
-2. **Make sure _both_ files are in the _same_ folder**
+   ```
+3. **Make sure _both_ files are in the _same_ folder**
+   ```
    FinalProject_MaryNguyen.py
    games.txt
-
-3. **Run the program**
+   ```
+   
+5. **Run the program**
+   ```
    python FinalProject_MaryNguyen.py
-
+   ```
+   
 * *No external libraries needed — uses Python's built-in `os` module only.* *
 
 ## How It Works
